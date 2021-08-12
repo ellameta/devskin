@@ -336,7 +336,7 @@
     height: 580px;
     background-size: cover;
     background-position: center;
-    background-image: url(/imgs/img-prod.jpeg);
+    background-image: url(imgs/img-prod.jpeg);
 }
 
 
@@ -466,7 +466,7 @@
     height: 650px;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url(/imgs/face.jpeg);
+    background-image: url(../imgs/face.jpeg);
     background-position: center;
 }
 
@@ -491,7 +491,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    background-image: url(/imgs/body.jpeg);
+    background-image: url(../imgs/body.jpeg);
 }
 
 .body .body-cream h2 {    
@@ -517,7 +517,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    background-image: url(/imgs/perfume.jpeg);
+    background-image: url(../imgs/perfume.jpeg);
 }
 
 .product-showcase .btn-all {
